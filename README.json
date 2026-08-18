@@ -72,7 +72,7 @@
             "last_commit": "2025-08-30T06:45:52Z",
             "owner": "FallibleInc",
             "repo": "security-guide-for-developers",
-            "stars": 21092
+            "stars": 21093
           }
         },
         {
@@ -577,7 +577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:09:15.283Z",
+    "last_updated": "2026-08-18T02:05:39.490Z",
     "original_repository": "israelroldan/awesome-checklists",
     "original_repository_sha": "c4d5e8c096025907dbbde1a8810f39f1a481bdf9",
     "enhanced_repository": "enhansome/enhansome-checklists",
