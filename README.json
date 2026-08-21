@@ -56,7 +56,7 @@
                     "last_commit": "2026-07-21T07:59:55Z",
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23302
+                    "stars": 23301
                   }
                 },
                 {
@@ -123,7 +123,7 @@
                     "last_commit": "2017-12-10T12:34:12Z",
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1452
+                    "stars": 1451
                   }
                 },
                 {
@@ -138,7 +138,7 @@
                     "last_commit": "2017-12-10T12:34:12Z",
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1452
+                    "stars": 1451
                   }
                 },
                 {
@@ -380,7 +380,7 @@
                 "last_commit": "2025-02-24T11:03:29Z",
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2764
+                "stars": 2766
               }
             },
             {
@@ -410,7 +410,7 @@
                 "last_commit": "2025-12-12T20:32:14Z",
                 "owner": "ddbeck",
                 "repo": "readme-checklist",
-                "stars": 666
+                "stars": 665
               }
             },
             {
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:06:54.281Z",
+    "last_updated": "2026-08-21T02:13:02.193Z",
     "original_repository": "israelroldan/awesome-checklists",
     "original_repository_id": 100371083,
     "original_repository_sha": "c4d5e8c096025907dbbde1a8810f39f1a481bdf9",
