@@ -582,13 +582,35 @@
           "description": null,
           "node_type": "group",
           "title": "Software development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Marketing Checklist for indie game developers",
+              "description": "A checklist to help indie game developers promote their games",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9941699,
+                "language": null,
+                "last_commit": "2013-05-08T17:32:34Z",
+                "owner": "tutsplus",
+                "repo": "Marketing-Checklist-For-Indie-Game-Developers",
+                "stars": 86
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Startups / side-projects"
         }
       ],
       "title": "Checklist-like"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:12:28.616Z",
+    "last_updated": "2026-08-24T14:34:38.415Z",
     "original_repository": "israelroldan/awesome-checklists",
     "original_repository_id": 100371083,
     "original_repository_sha": "c4d5e8c096025907dbbde1a8810f39f1a481bdf9",
