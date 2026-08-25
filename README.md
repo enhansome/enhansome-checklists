@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,640 | 🐛 106 | 📅 2026-08-21 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,686 | 🐛 3 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,707 | 🐛 106 | 📅 2026-08-21 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,686 | 🐛 3 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -44,8 +44,8 @@ Checklists related to software development in all its forms.
 
 #### Web development
 
-* [Going to production - Single Page App](https://github.com/mr-mig/going-to-production/blob/master/spa-checklist.md) ⭐ 1,451 | 🐛 1 | 📅 2017-12-10 - A checklist for browser-based Web App without the backend
-* [Going to production - Server side](https://github.com/mr-mig/going-to-production/blob/master/serverside-checklist.md) ⭐ 1,451 | 🐛 1 | 📅 2017-12-10 - This is a checklist for serverside of the Web App.
+* [Going to production - Single Page App](https://github.com/mr-mig/going-to-production/blob/master/spa-checklist.md) ⭐ 1,452 | 🐛 1 | 📅 2017-12-10 - A checklist for browser-based Web App without the backend
+* [Going to production - Server side](https://github.com/mr-mig/going-to-production/blob/master/serverside-checklist.md) ⭐ 1,452 | 🐛 1 | 📅 2017-12-10 - This is a checklist for serverside of the Web App.
 * [Web Developer Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) ⭐ 423 | 🐛 4 | 📅 2021-05-10 - A checklist of important security issues you should consider when creating a web application.
 * [Frontend Checklist](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04 - A frontend checklist for websites
 * [Building a java web apps checklist](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 229 | 🐛 0 | 📅 2017-10-20 - A checklist for building Java + Angular/React web applications in the correct way
