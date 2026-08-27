@@ -71,7 +71,7 @@
                     "last_commit": "2025-08-30T06:45:52Z",
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21094
+                    "stars": 21095
                   }
                 },
                 {
@@ -328,7 +328,7 @@
                 "last_commit": "2026-01-08T13:54:43Z",
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 499
+                "stars": 500
               }
             },
             {
@@ -610,9 +610,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:13:37.274Z",
-    "original_repository": "israelroldan/awesome-checklists",
-    "original_repository_id": 100371083,
+    "last_updated": "2026-08-27T10:33:14.252Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 100371083,
+      "language": null,
+      "last_commit": "2017-08-15T11:35:07Z",
+      "owner": "israelroldan",
+      "repo": "awesome-checklists",
+      "stars": 148
+    },
     "original_repository_sha": "c4d5e8c096025907dbbde1a8810f39f1a481bdf9",
     "enhanced_repository": "enhansome/enhansome-checklists",
     "enhanced_repository_description": null,
