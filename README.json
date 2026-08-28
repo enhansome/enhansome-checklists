@@ -20,7 +20,8 @@
                     "owner": "muellerberndt",
                     "repo": "android_app_security_checklist",
                     "stars": 891
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "oisin",
                     "repo": "app-release-checklist",
                     "stars": 775
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 }
               ],
               "description": null,
@@ -57,7 +59,8 @@
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
                     "stars": 23306
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -71,8 +74,9 @@
                     "last_commit": "2025-08-30T06:45:52Z",
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21095
-                  }
+                    "stars": 21096
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
                     "stars": 1362
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 }
               ],
               "description": null,
@@ -124,7 +130,8 @@
                     "owner": "mtdvio",
                     "repo": "going-to-production",
                     "stars": 1452
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -139,7 +146,8 @@
                     "owner": "mtdvio",
                     "repo": "going-to-production",
                     "stars": 1452
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -154,7 +162,8 @@
                     "owner": "virajkulkarni14",
                     "repo": "WebDeveloperSecurityChecklist",
                     "stars": 423
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "drublic",
                     "repo": "checklist",
                     "stars": 283
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "shekhargulati",
                     "repo": "building-java-web-apps-checklist",
                     "stars": 229
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -199,7 +210,8 @@
                     "owner": "Imaginarydesign",
                     "repo": "webdev-checklist",
                     "stars": 140
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -214,7 +226,8 @@
                     "owner": "winzou",
                     "repo": "symfony2-checklist",
                     "stars": 136
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -229,7 +242,8 @@
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -244,7 +258,8 @@
                     "owner": "thanhluu",
                     "repo": "wp-themes-review",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 },
                 {
                   "node_type": "item",
@@ -259,7 +274,8 @@
                     "owner": "cauequeiroz",
                     "repo": "udacity-course-checklist",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:14:38.792Z"
                 }
               ],
               "description": null,
@@ -286,7 +302,8 @@
                 "owner": "leonar15",
                 "repo": "startup-checklist",
                 "stars": 2585
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "slashdotdash",
                 "repo": "saas-startup-checklist",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             }
           ],
           "description": "Checklists related to startups and side projects.",
@@ -328,8 +346,9 @@
                 "last_commit": "2026-01-08T13:54:43Z",
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 500
-              }
+                "stars": 501
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -344,7 +363,8 @@
                 "owner": "mxsasha",
                 "repo": "lessobviouschecklist",
                 "stars": 382
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             }
           ],
           "description": null,
@@ -366,7 +386,8 @@
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
                 "stars": 4132
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -381,7 +402,8 @@
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
                 "stars": 2769
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -396,7 +418,8 @@
                 "owner": "nayafia",
                 "repo": "contributing-template",
                 "stars": 735
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -411,7 +434,8 @@
                 "owner": "ddbeck",
                 "repo": "readme-checklist",
                 "stars": 665
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -426,7 +450,8 @@
                 "owner": "mdo",
                 "repo": "config",
                 "stars": 632
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -441,7 +466,8 @@
                 "owner": "strozfriedberg",
                 "repo": "Docker-Secure-Deployment-Guidelines",
                 "stars": 608
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -456,7 +482,8 @@
                 "owner": "jesusprubio",
                 "repo": "strong-node",
                 "stars": 508
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -471,7 +498,8 @@
                 "owner": "dhilipsiva",
                 "repo": "webapp-checklist",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -486,7 +514,8 @@
                 "owner": "tutsplus",
                 "repo": "SEO-Checklist-for-Web-Designers",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -501,7 +530,8 @@
                 "owner": "tutsplus",
                 "repo": "Website-Launch-Checklist-for-Web-Designers",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -516,7 +546,8 @@
                 "owner": "harrisrobin",
                 "repo": "react-native-checklist",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -531,7 +562,8 @@
                 "owner": "datamade",
                 "repo": "site-launch-checklist",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -546,7 +578,8 @@
                 "owner": "RafaelFunchal",
                 "repo": "wordpress-security-checklist",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -561,7 +594,8 @@
                 "owner": "cht8687",
                 "repo": "React-ES5-To-ES6-Checklist",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             },
             {
               "node_type": "item",
@@ -576,7 +610,8 @@
                 "owner": "jeanlucaslima",
                 "repo": "linux-checklist",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             }
           ],
           "description": null,
@@ -598,7 +633,8 @@
                 "owner": "tutsplus",
                 "repo": "Marketing-Checklist-For-Indie-Game-Developers",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T12:14:38.792Z"
             }
           ],
           "description": null,
@@ -610,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:54.284Z",
+    "last_updated": "2026-08-28T12:14:38.792Z",
     "original_repository_info": {
       "archived": false,
       "id": 100371083,

@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,685 | 🐛 3 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,710 | 🐛 105 | 📅 2026-08-21 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,685 | 🐛 3 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -36,7 +36,7 @@ Checklists related to software development in all its forms.
 #### Security
 
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,306 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
-* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,095 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
+* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,096 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
 * [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,362 | 🐛 81 | 🌐 Ruby | 📅 2022-07-17 - Community-driven Rails Security Checklist. Contribute and share your experience
 * [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 108 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
 
@@ -85,7 +85,7 @@ These are additional resources that are in a format similar to a checklist (step
 
 ### Event planning
 
-* [Congress checklist](https://github.com/MacLemon/CongressChecklist) ⭐ 500 | 🐛 1 | 📅 2026-01-08 - A list of things to do, to pack and tips on attending a congress
+* [Congress checklist](https://github.com/MacLemon/CongressChecklist) ⭐ 501 | 🐛 1 | 📅 2026-01-08 - A list of things to do, to pack and tips on attending a congress
 * [Less Obvious Checklist](https://github.com/erikr/lessobviouschecklist) ⭐ 382 | 🐛 6 | 📅 2024-08-09 - A checklist for conference organisers of less obvious things
 
 **[:arrow\_up: back to top](#table-of-contents)**
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
