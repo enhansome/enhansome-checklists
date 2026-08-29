@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android App Security Checklist",
+                    "homepage": null,
                     "id": 97360377,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-27T08:12:39Z",
+                    "open_issues": 6,
                     "owner": "muellerberndt",
                     "repo": "android_app_security_checklist",
-                    "stars": 891
+                    "stars": 891,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are.",
+                    "homepage": null,
                     "id": 13011735,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-03-04T21:03:05Z",
+                    "open_issues": 0,
                     "owner": "oisin",
                     "repo": "app-release-checklist",
-                    "stars": 775
+                    "stars": 775,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 }
@@ -53,12 +63,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+                    "homepage": null,
                     "id": 96641209,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-07-21T07:59:55Z",
+                    "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23306
+                    "stars": 23306,
+                    "topics": [
+                      "api",
+                      "jwt",
+                      "oauth2",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -69,12 +89,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Security Guide for Developers",
+                    "homepage": "https://git.io/security",
                     "id": 60710553,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-08-30T06:45:52Z",
+                    "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21096
+                    "stars": 21097,
+                    "topics": [
+                      "api",
+                      "books",
+                      "security",
+                      "security-book",
+                      "security-checklist"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -85,12 +116,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":key: Community-driven Rails Security Checklist (see our GitHub Issues for the newest checks that aren't yet in the README)",
+                    "homepage": null,
                     "id": 77745119,
                     "language": "Ruby",
+                    "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
+                    "open_issues": 81,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1362
+                    "stars": 1362,
+                    "topics": [
+                      "checklist",
+                      "rails",
+                      "rails-security",
+                      "rails-security-checklist",
+                      "ruby-on-rails",
+                      "security",
+                      "security-audit",
+                      "security-hardening"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -101,12 +146,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "If you're launching a new application and have security in mind, this is a good starting point",
+                    "homepage": "https://github.com/mostafahussein/awesome-security-checklist",
                     "id": 54846691,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2016-03-30T14:17:23Z",
+                    "open_issues": 0,
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 }
@@ -124,12 +174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A reference checklist for topics which should be covered before going to production.",
+                    "homepage": null,
                     "id": 31037923,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-12-10T12:34:12Z",
+                    "open_issues": 1,
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1452
+                    "stars": 1452,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -140,12 +195,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A reference checklist for topics which should be covered before going to production.",
+                    "homepage": null,
                     "id": 31037923,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-12-10T12:34:12Z",
+                    "open_issues": 1,
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1452
+                    "stars": 1452,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -156,12 +216,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A checklist of important security issues you should consider when creating a web application.",
+                    "homepage": "https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56",
                     "id": 91501771,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-05-10T07:48:47Z",
+                    "open_issues": 4,
                     "owner": "virajkulkarni14",
                     "repo": "WebDeveloperSecurityChecklist",
-                    "stars": 423
+                    "stars": 423,
+                    "topics": [
+                      "checklist",
+                      "information-security",
+                      "web-development"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -172,12 +241,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📋 A Frontend Checklist for Websites",
+                    "homepage": "https://drublic.de/blog/frontend-checklist/",
                     "id": 75481830,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-01-04T18:59:20Z",
+                    "open_issues": 2,
                     "owner": "drublic",
                     "repo": "checklist",
-                    "stars": 283
+                    "stars": 282,
+                    "topics": [
+                      "checklist",
+                      "frontend",
+                      "launch",
+                      "performance"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -188,12 +267,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "✅ A checklist for building Java + Angular/React web applications in the correct way",
+                    "homepage": "https://shekhargulati.com/",
                     "id": 99652704,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2017-10-20T12:56:58Z",
+                    "open_issues": 0,
                     "owner": "shekhargulati",
                     "repo": "building-java-web-apps-checklist",
-                    "stars": 229
+                    "stars": 229,
+                    "topics": [
+                      "checklist",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -204,12 +291,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Web designer's checklist app. Built with Vue.js and persistant storage.",
+                    "homepage": "http://imaginarydesign.github.io/webdev-checklist/",
                     "id": 60059090,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-07-11T03:48:57Z",
+                    "open_issues": 2,
                     "owner": "Imaginarydesign",
                     "repo": "webdev-checklist",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -220,12 +312,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 8583862,
                     "language": "GCC Machine Description",
+                    "license": null,
                     "last_commit": "2017-04-04T13:51:54Z",
+                    "open_issues": 7,
                     "owner": "winzou",
                     "repo": "symfony2-checklist",
-                    "stars": 136
+                    "stars": 136,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -236,12 +333,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "If you're launching a new application and have security in mind, this is a good starting point",
+                    "homepage": "https://github.com/mostafahussein/awesome-security-checklist",
                     "id": 54846691,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2016-03-30T14:17:23Z",
+                    "open_issues": 0,
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -252,12 +354,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WordPress Themes Review Checklist",
+                    "homepage": null,
                     "id": 31399268,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2015-10-21T07:35:44Z",
+                    "open_issues": 1,
                     "owner": "thanhluu",
                     "repo": "wp-themes-review",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 },
@@ -268,12 +375,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A awesome checklist of free Udacity courses for front-end developers.",
+                    "homepage": null,
                     "id": 73390161,
                     "language": null,
+                    "license": null,
                     "last_commit": "2016-12-07T20:54:03Z",
+                    "open_issues": 0,
                     "owner": "cauequeiroz",
                     "repo": "udacity-course-checklist",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
                 }
@@ -296,12 +408,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A checklist for incorporation so you can get back to building your product, fundraising, etc.",
+                "homepage": null,
                 "id": 62009759,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-10-23T18:25:57Z",
+                "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2585
+                "stars": 2586,
+                "topics": [
+                  "bizdev",
+                  "california",
+                  "delaware",
+                  "founders",
+                  "foundersandcoders",
+                  "incorporation",
+                  "incorporation-documents",
+                  "irs",
+                  "startup",
+                  "startups"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -312,12 +440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SaaS Startup Checklist",
+                "homepage": null,
                 "id": 13239326,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-10-04T21:24:14Z",
+                "open_issues": 1,
                 "owner": "slashdotdash",
                 "repo": "saas-startup-checklist",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             }
@@ -341,12 +474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of things to do, to pack and tips on attending a congress, especially Chaos Communication Congress.",
+                "homepage": null,
                 "id": 7318902,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-01-08T13:54:43Z",
+                "open_issues": 1,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 501
+                "stars": 501,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -357,12 +495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Less Obvious Conference Checklist",
+                "homepage": "https://lessobvious.cc/",
                 "id": 26826671,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-09T20:43:19Z",
+                "open_issues": 6,
                 "owner": "mxsasha",
                 "repo": "lessobviouschecklist",
-                "stars": 382
+                "stars": 382,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             }
@@ -380,12 +523,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Cheatsheet for developing lightning fast progressive Angular applications",
+                "homepage": null,
                 "id": 67375557,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-07-04T22:01:41Z",
+                "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4132
+                "stars": 4132,
+                "topics": [
+                  "angular",
+                  "application-shell",
+                  "performance",
+                  "practice",
+                  "pwa",
+                  "service-worker"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -396,12 +551,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.",
+                "homepage": null,
                 "id": 28194997,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-02-24T11:03:29Z",
+                "open_issues": 34,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2769
+                "stars": 2769,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "collection",
+                  "engine",
+                  "google",
+                  "keyword",
+                  "optimization",
+                  "search",
+                  "seo",
+                  "tips"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -412,12 +583,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template for writing your own contributing guide",
+                "homepage": null,
                 "id": 56864679,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-05-24T04:02:58Z",
+                "open_issues": 3,
                 "owner": "nayafia",
                 "repo": "contributing-template",
-                "stars": 735
+                "stars": 735,
+                "topics": [
+                  "checklist",
+                  "community",
+                  "content",
+                  "documentation",
+                  "open-source",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -428,12 +611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A checklist for writing READMEs",
+                "homepage": null,
                 "id": 58968465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-12-12T20:32:14Z",
+                "open_issues": 3,
                 "owner": "ddbeck",
                 "repo": "readme-checklist",
-                "stars": 665
+                "stars": 665,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -444,12 +632,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal checklist for setting up a new Mac's dev environment.",
+                "homepage": null,
                 "id": 27704839,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-07-18T03:36:33Z",
+                "open_issues": 1,
                 "owner": "mdo",
                 "repo": "config",
-                "stars": 632
+                "stars": 632,
+                "topics": [
+                  "checklist",
+                  "config",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -460,12 +657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deployment checklist for securely deploying Docker",
+                "homepage": null,
                 "id": 27822309,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-11-01T11:03:00Z",
+                "open_issues": 1,
                 "owner": "strozfriedberg",
                 "repo": "Docker-Secure-Deployment-Guidelines",
-                "stars": 608
+                "stars": 608,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -476,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":heavy_check_mark: More than 100 security checks for your Node.js API",
+                "homepage": null,
                 "id": 57211422,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-04-23T07:17:37Z",
+                "open_issues": 3,
                 "owner": "jesusprubio",
                 "repo": "strong-node",
-                "stars": 508
+                "stars": 508,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -492,12 +699,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Technical details that a programmer of a web application should consider before making the site public.",
+                "homepage": "http://dhilipsiva.com/webapp-checklist/",
                 "id": 32247464,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-04-27T09:46:08Z",
+                "open_issues": 4,
                 "owner": "dhilipsiva",
                 "repo": "webapp-checklist",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "development",
+                  "documentation",
+                  "guide",
+                  "guideline",
+                  "performance",
+                  "programmer",
+                  "security-audit",
+                  "seo",
+                  "technical-details"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -508,12 +730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A checklist to help web designers bring order to their SEO chaos.",
+                "homepage": "http://webdesign.tutsplus.com/articles/general/seo-checklist/",
                 "id": 8265995,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-09-30T19:07:15Z",
+                "open_issues": 5,
                 "owner": "tutsplus",
                 "repo": "SEO-Checklist-for-Web-Designers",
-                "stars": 277
+                "stars": 277,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -524,12 +751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "At FHOKE we’ve been through it all, from perfect launches to ones that have turned into complete nightmares! Through our experiences we’ve compiled a list, in no particular order, of a process we go through before we launch our sites. http://webdesign.tutsplus.com/articles/workflow/a-web-designers-site-launch-checklist-including-portable-formats/ ‎",
+                "homepage": null,
                 "id": 8601875,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-18T14:55:18Z",
+                "open_issues": 5,
                 "owner": "tutsplus",
                 "repo": "Website-Launch-Checklist-for-Web-Designers",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -540,12 +772,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 From idea to app store. A recommended check list for shipping react-native apps.",
+                "homepage": null,
                 "id": 97683813,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2017-11-29T01:51:20Z",
+                "open_issues": 0,
                 "owner": "harrisrobin",
                 "repo": "react-native-checklist",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "checklist",
+                  "react-native",
+                  "react-native-tutorial"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -556,12 +797,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":ballot_box_with_check: A checklist of miscellaneous tasks to do before launching a public website.",
+                "homepage": null,
                 "id": 40607757,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-02T16:43:33Z",
+                "open_issues": 1,
                 "owner": "datamade",
                 "repo": "site-launch-checklist",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "checklist",
+                  "guide"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -572,12 +821,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple checklist to improve the security of your WordPress installation",
+                "homepage": "https://wpsecuritychecklist.org/",
                 "id": 28694211,
                 "language": "SCSS",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-27T04:18:46Z",
+                "open_issues": 4,
                 "owner": "RafaelFunchal",
                 "repo": "wordpress-security-checklist",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -588,12 +842,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":blue_book:The missing manual of upgrading ES5 React to ES6+ :sparkles:",
+                "homepage": null,
                 "id": 64145508,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-01-05T23:55:24Z",
+                "open_issues": 1,
                 "owner": "cht8687",
                 "repo": "React-ES5-To-ES6-Checklist",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "es6",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -604,12 +866,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "What to install after setting up your fresh new Linux distro.",
+                "homepage": null,
                 "id": 45752891,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2016-04-02T13:41:40Z",
+                "open_issues": 6,
                 "owner": "jeanlucaslima",
                 "repo": "linux-checklist",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             }
@@ -627,12 +894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A checklist to help indie game developers promote their games. http://gamedev.tutsplus.com/articles/business-articles/promoting-your-indie-game-checklist/",
+                "homepage": null,
                 "id": 9941699,
                 "language": null,
+                "license": null,
                 "last_commit": "2013-05-08T17:32:34Z",
+                "open_issues": 1,
                 "owner": "tutsplus",
                 "repo": "Marketing-Checklist-For-Indie-Game-Developers",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             }
@@ -646,15 +918,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:14:38.792Z",
+    "last_updated": "2026-08-29T04:53:46.059Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of checklists. Inspired by the awesome list thing.",
+      "homepage": null,
       "id": 100371083,
       "language": null,
+      "license": null,
       "last_commit": "2017-08-15T11:35:07Z",
+      "open_issues": 0,
       "owner": "israelroldan",
       "repo": "awesome-checklists",
-      "stars": 148
+      "stars": 148,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "checklist",
+        "checklists",
+        "saas",
+        "security",
+        "side-project",
+        "software-development",
+        "startup"
+      ]
     },
     "original_repository_sha": "c4d5e8c096025907dbbde1a8810f39f1a481bdf9",
     "enhanced_repository": "enhansome/enhansome-checklists",
