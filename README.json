@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23307,
+                    "stars": 23308,
                     "topics": [
                       "api",
                       "jwt",
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21096,
+                    "stars": 21092,
                     "topics": [
                       "api",
                       "books",
@@ -560,7 +560,7 @@
                 "open_issues": 33,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2770,
+                "stars": 2771,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -620,7 +620,7 @@
                 "open_issues": 3,
                 "owner": "ddbeck",
                 "repo": "readme-checklist",
-                "stars": 665,
+                "stars": 666,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T05:05:47.162Z",
+    "last_updated": "2026-09-03T05:05:07.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
