@@ -560,7 +560,7 @@
                 "open_issues": 33,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2771,
+                "stars": 2772,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T05:05:07.026Z",
+    "last_updated": "2026-09-04T05:07:04.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
