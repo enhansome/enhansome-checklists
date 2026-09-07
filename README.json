@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23311,
+                    "stars": 23312,
                     "topics": [
                       "api",
                       "jwt",
@@ -557,10 +557,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-02-24T11:03:29Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2772,
+                "stars": 2773,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -903,7 +903,7 @@
                 "open_issues": 1,
                 "owner": "tutsplus",
                 "repo": "Marketing-Checklist-For-Indie-Game-Developers",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T05:06:25.083Z",
+    "last_updated": "2026-09-07T05:14:21.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
