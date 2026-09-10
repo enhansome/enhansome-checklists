@@ -23,7 +23,7 @@
                     "open_issues": 6,
                     "owner": "muellerberndt",
                     "repo": "android_app_security_checklist",
-                    "stars": 891,
+                    "stars": 892,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21094,
+                    "stars": 21092,
                     "topics": [
                       "api",
                       "books",
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2586,
+                "stars": 2588,
                 "topics": [
                   "bizdev",
                   "california",
@@ -557,10 +557,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-02-24T11:03:29Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2775,
+                "stars": 2777,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -641,7 +641,7 @@
                 "open_issues": 1,
                 "owner": "mdo",
                 "repo": "config",
-                "stars": 631,
+                "stars": 632,
                 "topics": [
                   "checklist",
                   "config",
@@ -760,7 +760,7 @@
                 "open_issues": 5,
                 "owner": "tutsplus",
                 "repo": "Website-Launch-Checklist-for-Web-Designers",
-                "stars": 140,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T05:17:56.457Z",
+    "last_updated": "2026-09-10T05:19:14.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",

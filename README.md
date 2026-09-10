@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,328 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,686 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,598 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,685 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -28,7 +28,7 @@ Checklists related to software development in all its forms.
 
 #### App development
 
-* [Android App Security Checklist](https://github.com/b-mueller/android_app_security_checklist) ⭐ 891 | 🐛 6 | 📅 2022-08-27 - A checklist with security considerations for designing, testing, and releasing secure Android apps.
+* [Android App Security Checklist](https://github.com/b-mueller/android_app_security_checklist) ⭐ 892 | 🐛 6 | 📅 2022-08-27 - A checklist with security considerations for designing, testing, and releasing secure Android apps.
 * [App release checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) ⭐ 775 | 🐛 0 | 📅 2019-03-04 - A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are.
 
 **[:arrow\_up: back to top](#table-of-contents)**
@@ -36,7 +36,7 @@ Checklists related to software development in all its forms.
 #### Security
 
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,313 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
-* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,094 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
+* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,092 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
 * [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,361 | 🐛 81 | 🌐 Ruby | 📅 2022-07-17 - Community-driven Rails Security Checklist. Contribute and share your experience
 * [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 108 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
 
@@ -65,7 +65,7 @@ Checklists related to software development in all its forms.
 
 Checklists related to startups and side projects.
 
-* [Startup checklist](https://github.com/leonar15/startup-checklist) ⭐ 2,586 | 🐛 3 | 📅 2025-10-23 - A checklist for incorporation so you can get back to building your product, fundraising, etc.
+* [Startup checklist](https://github.com/leonar15/startup-checklist) ⭐ 2,588 | 🐛 3 | 📅 2025-10-23 - A checklist for incorporation so you can get back to building your product, fundraising, etc.
 * [SaaS Startup Checklist](https://github.com/slashdotdash/saas-startup-checklist) ⭐ 131 | 🐛 1 | 📅 2021-10-04 - A checklist for SaaS startups
 * [Side project Marketing](https://www.sideprojectchecklist.com/) - A checklist of tactics for marketing your side projects
 * [SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) - This is a basic checklist that all SaaS CTOs (and anyone else) can use to harden their security.
@@ -93,15 +93,15 @@ These are additional resources that are in a format similar to a checklist (step
 ### Software development
 
 * [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,132 | 🐛 1 | 📅 2023-07-04 - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
-* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,775 | 🐛 34 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
+* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,777 | 🐛 35 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 * [Contributing Template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) ⭐ 736 | 🐛 3 | 📅 2022-05-24 - A template for writing your own contributing guide.
 * [README checklist](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 666 | 🐛 3 | 📅 2025-12-12 - A checklist for writing READMEs
-* [Config](https://github.com/mdo/config) ⭐ 631 | 🐛 1 | 🌐 Shell | 📅 2021-07-18 - Mdo's checklist for setting up a new Mac's dev environment.
+* [Config](https://github.com/mdo/config) ⭐ 632 | 🐛 1 | 🌐 Shell | 📅 2021-07-18 - Mdo's checklist for setting up a new Mac's dev environment.
 * [Docker Secure Deployment Guidelines](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) ⭐ 608 | 🐛 1 | 📅 2016-11-01 - Deployment checklist for securely deploying Docker
 * [Strong Node](https://github.com/jesusprubio/strong-node) ⚠️ Archived - An exhaustive checklist to assist in the source code security analysis of a Node.js web service.
 * [WebApp Checklist](https://github.com/dhilipsiva/webapp-checklist) ⭐ 366 | 🐛 4 | 🌐 Python | 📅 2020-04-27 - Technical details that a programmer of a web application should consider before making the site public.
 * [SEO Checklist for Web Designers](https://github.com/tutsplus/SEO-Checklist-for-Web-Designers/blob/master/seo_checklist.md) ⭐ 277 | 🐛 5 | 📅 2021-09-30 - A checklist to help web designers bring order to their SEO chaos.
-* [Website Launch Checklist](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers/blob/master/launch_checklist.md) ⭐ 140 | 🐛 5 | 📅 2020-10-18 - A list, in no particular order, of a process tutsplus goes through before we launch their sites.
+* [Website Launch Checklist](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers/blob/master/launch_checklist.md) ⭐ 139 | 🐛 5 | 📅 2020-10-18 - A list, in no particular order, of a process tutsplus goes through before we launch their sites.
 * [React Native Checklist](https://github.com/harrisrobin/react-native-checklist) ⭐ 130 | 🐛 0 | 📅 2017-11-29 - From idea to app store. A recommended check list for shipping react-native apps.
 * [Site launch checklist](https://github.com/datamade/site-launch-checklist) ⭐ 126 | 🐛 1 | 📅 2026-07-02 -  A checklist of miscellaneous tasks to do before launching a public website.
 * [Wordpress Security Checklist](https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md) ⭐ 125 | 🐛 4 | 🌐 SCSS | 📅 2026-07-27 - A checklist of actions that you should take to increase the security of your website.
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
