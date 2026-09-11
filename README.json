@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23313,
+                    "stars": 23314,
                     "topics": [
                       "api",
                       "jwt",
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21092,
+                    "stars": 21093,
                     "topics": [
                       "api",
                       "books",
@@ -183,7 +183,7 @@
                     "open_issues": 1,
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1452,
+                    "stars": 1453,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -204,7 +204,7 @@
                     "open_issues": 1,
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1452,
+                    "stars": 1453,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2588,
+                "stars": 2589,
                 "topics": [
                   "bizdev",
                   "california",
@@ -687,7 +687,7 @@
                 "open_issues": 3,
                 "owner": "jesusprubio",
                 "repo": "strong-node",
-                "stars": 508,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T05:19:14.022Z",
+    "last_updated": "2026-09-11T05:16:55.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
