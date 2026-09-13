@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23316,
+                    "stars": 23317,
                     "topics": [
                       "api",
                       "jwt",
@@ -592,7 +592,7 @@
                 "open_issues": 3,
                 "owner": "nayafia",
                 "repo": "contributing-template",
-                "stars": 736,
+                "stars": 737,
                 "topics": [
                   "checklist",
                   "community",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:05:11.684Z",
+    "last_updated": "2026-09-13T05:23:23.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
