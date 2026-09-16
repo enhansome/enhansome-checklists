@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21093,
+                    "stars": 21094,
                     "topics": [
                       "api",
                       "books",
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4132,
+                "stars": 4133,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -560,7 +560,7 @@
                 "open_issues": 35,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2780,
+                "stars": 2781,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T05:23:23.888Z",
+    "last_updated": "2026-09-16T05:17:16.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
