@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21094,
+                    "stars": 21093,
                     "topics": [
                       "api",
                       "books",
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2589,
+                "stars": 2588,
                 "topics": [
                   "bizdev",
                   "california",
@@ -560,7 +560,7 @@
                 "open_issues": 35,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2781,
+                "stars": 2782,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:17:16.446Z",
+    "last_updated": "2026-09-17T05:25:56.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
