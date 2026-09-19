@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23318,
+                    "stars": 23320,
                     "topics": [
                       "api",
                       "jwt",
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21094,
+                    "stars": 21095,
                     "topics": [
                       "api",
                       "books",
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2588,
+                "stars": 2590,
                 "topics": [
                   "bizdev",
                   "california",
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4133,
+                "stars": 4131,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -560,7 +560,7 @@
                 "open_issues": 35,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2782,
+                "stars": 2783,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -903,7 +903,7 @@
                 "open_issues": 1,
                 "owner": "tutsplus",
                 "repo": "Marketing-Checklist-For-Indie-Game-Developers",
-                "stars": 87,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:13:25.060Z",
+    "last_updated": "2026-09-19T05:05:47.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
@@ -930,7 +930,7 @@
       "open_issues": 0,
       "owner": "israelroldan",
       "repo": "awesome-checklists",
-      "stars": 149,
+      "stars": 150,
       "topics": [
         "awesome",
         "awesome-list",
