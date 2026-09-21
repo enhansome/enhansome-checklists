@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23319,
+                    "stars": 23322,
                     "topics": [
                       "api",
                       "jwt",
@@ -125,7 +125,7 @@
                     "open_issues": 82,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1361,
+                    "stars": 1360,
                     "topics": [
                       "checklist",
                       "rails",
@@ -155,7 +155,7 @@
                     "open_issues": 0,
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
-                    "stars": 108,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -342,7 +342,7 @@
                     "open_issues": 0,
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
-                    "stars": 108,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2591,
+                "stars": 2592,
                 "topics": [
                   "bizdev",
                   "california",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:25:34.626Z",
+    "last_updated": "2026-09-21T05:30:14.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
