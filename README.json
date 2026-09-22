@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23322,
+                    "stars": 23323,
                     "topics": [
                       "api",
                       "jwt",
@@ -183,7 +183,7 @@
                     "open_issues": 1,
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1453,
+                    "stars": 1454,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -204,7 +204,7 @@
                     "open_issues": 1,
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1453,
+                    "stars": 1454,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2592,
+                "stars": 2593,
                 "topics": [
                   "bizdev",
                   "california",
@@ -663,7 +663,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-11-01T11:03:00Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "strozfriedberg",
                 "repo": "Docker-Secure-Deployment-Guidelines",
                 "stars": 608,
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:30:14.891Z",
+    "last_updated": "2026-09-22T05:24:01.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
