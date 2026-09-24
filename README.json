@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21095,
+                    "stars": 21096,
                     "topics": [
                       "api",
                       "books",
@@ -641,7 +641,7 @@
                 "open_issues": 1,
                 "owner": "mdo",
                 "repo": "config",
-                "stars": 632,
+                "stars": 633,
                 "topics": [
                   "checklist",
                   "config",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:12:14.729Z",
+    "last_updated": "2026-09-24T05:27:26.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
