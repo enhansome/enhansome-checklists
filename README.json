@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21096,
+                    "stars": 21095,
                     "topics": [
                       "api",
                       "books",
@@ -155,7 +155,7 @@
                     "open_issues": 0,
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
-                    "stars": 107,
+                    "stars": 105,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -342,7 +342,7 @@
                     "open_issues": 0,
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
-                    "stars": 107,
+                    "stars": 105,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -560,7 +560,7 @@
                 "open_issues": 35,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2784,
+                "stars": 2785,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:27:26.425Z",
+    "last_updated": "2026-09-25T05:25:14.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",

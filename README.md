@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,542 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,687 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,075 | 🐛 107 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,687 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -36,9 +36,9 @@ Checklists related to software development in all its forms.
 #### Security
 
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,323 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
-* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,096 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
+* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,095 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
 * [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,360 | 🐛 82 | 🌐 Ruby | 📅 2022-07-17 - Community-driven Rails Security Checklist. Contribute and share your experience
-* [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 107 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
+* [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 105 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
 
 **[:arrow\_up: back to top](#table-of-contents)**
 
@@ -51,7 +51,7 @@ Checklists related to software development in all its forms.
 * [Building a java web apps checklist](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 229 | 🐛 0 | 📅 2017-10-20 - A checklist for building Java + Angular/React web applications in the correct way
 * [Project checklist](https://github.com/Imaginarydesign/webdev-checklist) ⭐ 140 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-11 - Web designer's checklist app
 * [Symfony2 deployment checklist](https://github.com/winzou/symfony2-checklist) ⭐ 136 | 🐛 7 | 🌐 GCC Machine Description | 📅 2017-04-04 - A checklist to track the steps needed to deploy a symphony 2 project
-* [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 107 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
+* [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 105 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
 * [Wordpress Themes Review Checklist](https://github.com/thanhluu/wp-themes-review) ⭐ 40 | 🐛 1 | 📅 2015-10-21 - An actionable checklist to review a Wordpress theme
 * [Udacity course checklist](https://github.com/cauequeiroz/udacity-course-checklist) ⭐ 7 | 🐛 0 | 📅 2016-12-07 - An awesome checklist of free Udacity courses for front-end developers.
 * [Web developer checklist](http://webdevchecklist.com/) - The ultimate checklist for all serious web developers building modern websites.
@@ -93,7 +93,7 @@ These are additional resources that are in a format similar to a checklist (step
 ### Software development
 
 * [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,131 | 🐛 1 | 📅 2023-07-04 - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
-* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,784 | 🐛 35 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
+* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,785 | 🐛 35 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 * [Contributing Template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) ⭐ 738 | 🐛 3 | 📅 2022-05-24 - A template for writing your own contributing guide.
 * [README checklist](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 666 | 🐛 3 | 📅 2025-12-12 - A checklist for writing READMEs
 * [Config](https://github.com/mdo/config) ⭐ 633 | 🐛 1 | 🌐 Shell | 📅 2021-07-18 - Mdo's checklist for setting up a new Mac's dev environment.
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
