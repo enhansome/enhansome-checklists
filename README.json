@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "oisin",
                     "repo": "app-release-checklist",
-                    "stars": 775,
+                    "stars": 776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23322,
+                    "stars": 23325,
                     "topics": [
                       "api",
                       "jwt",
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2593,
+                "stars": 2594,
                 "topics": [
                   "bizdev",
                   "california",
@@ -483,7 +483,7 @@
                 "open_issues": 1,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 503,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -504,7 +504,7 @@
                 "open_issues": 6,
                 "owner": "mxsasha",
                 "repo": "lessobviouschecklist",
-                "stars": 382,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4131,
+                "stars": 4132,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -557,10 +557,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-02-24T11:03:29Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2785,
+                "stars": 2786,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -620,7 +620,7 @@
                 "open_issues": 3,
                 "owner": "ddbeck",
                 "repo": "readme-checklist",
-                "stars": 666,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -806,7 +806,7 @@
                 "open_issues": 1,
                 "owner": "datamade",
                 "repo": "site-launch-checklist",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "checklist",
                   "guide"
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:47:23.168Z",
+    "last_updated": "2026-09-28T05:53:43.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
