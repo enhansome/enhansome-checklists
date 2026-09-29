@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,602 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,688 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,109 | 🐛 106 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,688 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -35,8 +35,8 @@ Checklists related to software development in all its forms.
 
 #### Security
 
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,325 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
-* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,093 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,327 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
+* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,094 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
 * [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,360 | 🐛 82 | 🌐 Ruby | 📅 2022-07-17 - Community-driven Rails Security Checklist. Contribute and share your experience
 * [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 105 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
 
@@ -93,10 +93,10 @@ These are additional resources that are in a format similar to a checklist (step
 ### Software development
 
 * [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,132 | 🐛 1 | 📅 2023-07-04 - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
-* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,786 | 🐛 36 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
+* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,787 | 🐛 36 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 * [Contributing Template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) ⭐ 738 | 🐛 3 | 📅 2022-05-24 - A template for writing your own contributing guide.
 * [README checklist](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 667 | 🐛 3 | 📅 2025-12-12 - A checklist for writing READMEs
-* [Config](https://github.com/mdo/config) ⭐ 633 | 🐛 1 | 🌐 Shell | 📅 2021-07-18 - Mdo's checklist for setting up a new Mac's dev environment.
+* [Config](https://github.com/mdo/config) ⭐ 632 | 🐛 1 | 🌐 Shell | 📅 2021-07-18 - Mdo's checklist for setting up a new Mac's dev environment.
 * [Docker Secure Deployment Guidelines](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) ⭐ 608 | 🐛 3 | 📅 2016-11-01 - Deployment checklist for securely deploying Docker
 * [Strong Node](https://github.com/jesusprubio/strong-node) ⚠️ Archived - An exhaustive checklist to assist in the source code security analysis of a Node.js web service.
 * [WebApp Checklist](https://github.com/dhilipsiva/webapp-checklist) ⭐ 366 | 🐛 4 | 🌐 Python | 📅 2020-04-27 - Technical details that a programmer of a web application should consider before making the site public.
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
