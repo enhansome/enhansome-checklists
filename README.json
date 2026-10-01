@@ -23,7 +23,7 @@
                     "open_issues": 6,
                     "owner": "muellerberndt",
                     "repo": "android_app_security_checklist",
-                    "stars": 892,
+                    "stars": 893,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23330,
+                    "stars": 23328,
                     "topics": [
                       "api",
                       "jwt",
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21094,
+                    "stars": 21093,
                     "topics": [
                       "api",
                       "books",
@@ -560,7 +560,7 @@
                 "open_issues": 36,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2787,
+                "stars": 2786,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -592,7 +592,7 @@
                 "open_issues": 3,
                 "owner": "nayafia",
                 "repo": "contributing-template",
-                "stars": 738,
+                "stars": 739,
                 "topics": [
                   "checklist",
                   "community",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:59:33.606Z",
+    "last_updated": "2026-10-01T06:33:53.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
