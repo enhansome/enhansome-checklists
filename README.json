@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21094,
+                    "stars": 21095,
                     "topics": [
                       "api",
                       "books",
@@ -592,7 +592,7 @@
                 "open_issues": 3,
                 "owner": "nayafia",
                 "repo": "contributing-template",
-                "stars": 739,
+                "stars": 738,
                 "topics": [
                   "checklist",
                   "community",
@@ -760,7 +760,7 @@
                 "open_issues": 5,
                 "owner": "tutsplus",
                 "repo": "Website-Launch-Checklist-for-Web-Designers",
-                "stars": 139,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:14:25.563Z",
+    "last_updated": "2026-10-03T04:35:09.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
