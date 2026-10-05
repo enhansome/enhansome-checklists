@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,286 | 🐛 107 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,687 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,797 | 🐛 107 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,687 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -65,7 +65,7 @@ Checklists related to software development in all its forms.
 
 Checklists related to startups and side projects.
 
-* [Startup checklist](https://github.com/leonar15/startup-checklist) ⭐ 2,594 | 🐛 3 | 📅 2025-10-23 - A checklist for incorporation so you can get back to building your product, fundraising, etc.
+* [Startup checklist](https://github.com/leonar15/startup-checklist) ⭐ 2,595 | 🐛 3 | 📅 2025-10-23 - A checklist for incorporation so you can get back to building your product, fundraising, etc.
 * [SaaS Startup Checklist](https://github.com/slashdotdash/saas-startup-checklist) ⭐ 131 | 🐛 1 | 📅 2021-10-04 - A checklist for SaaS startups
 * [Side project Marketing](https://www.sideprojectchecklist.com/) - A checklist of tactics for marketing your side projects
 * [SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) - This is a basic checklist that all SaaS CTOs (and anyone else) can use to harden their security.
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
