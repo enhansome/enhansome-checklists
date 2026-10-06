@@ -23,7 +23,7 @@
                     "open_issues": 6,
                     "owner": "muellerberndt",
                     "repo": "android_app_security_checklist",
-                    "stars": 893,
+                    "stars": 894,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -122,7 +122,7 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 82,
+                    "open_issues": 83,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
                     "stars": 1361,
@@ -483,7 +483,7 @@
                 "open_issues": 1,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 501,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -560,7 +560,7 @@
                 "open_issues": 36,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2785,
+                "stars": 2783,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:14:24.107Z",
+    "last_updated": "2026-10-06T06:52:18.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
@@ -927,7 +927,7 @@
       "language": null,
       "license": null,
       "last_commit": "2017-08-15T11:35:07Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "israelroldan",
       "repo": "awesome-checklists",
       "stars": 150,
