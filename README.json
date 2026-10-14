@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23331,
+                    "stars": 23335,
                     "topics": [
                       "api",
                       "jwt",
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21097,
+                    "stars": 21099,
                     "topics": [
                       "api",
                       "books",
@@ -125,7 +125,7 @@
                     "open_issues": 83,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1361,
+                    "stars": 1362,
                     "topics": [
                       "checklist",
                       "rails",
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4130,
+                "stars": 4131,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -560,7 +560,7 @@
                 "open_issues": 36,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2791,
+                "stars": 2792,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -739,7 +739,7 @@
                 "open_issues": 5,
                 "owner": "tutsplus",
                 "repo": "SEO-Checklist-for-Web-Designers",
-                "stars": 277,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T07:07:10.018Z",
+    "last_updated": "2026-10-14T05:25:12.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
