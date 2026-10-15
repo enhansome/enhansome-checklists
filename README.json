@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23335,
+                    "stars": 23334,
                     "topics": [
                       "api",
                       "jwt",
@@ -122,10 +122,10 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 83,
+                    "open_issues": 84,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1362,
+                    "stars": 1361,
                     "topics": [
                       "checklist",
                       "rails",
@@ -155,7 +155,7 @@
                     "open_issues": 0,
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
-                    "stars": 105,
+                    "stars": 106,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -342,7 +342,7 @@
                     "open_issues": 0,
                     "owner": "mostafahussein",
                     "repo": "awesome-security-checklist",
-                    "stars": 105,
+                    "stars": 106,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2597,
+                "stars": 2598,
                 "topics": [
                   "bizdev",
                   "california",
@@ -560,7 +560,7 @@
                 "open_issues": 36,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2792,
+                "stars": 2793,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -663,7 +663,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-11-01T11:03:00Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "strozfriedberg",
                 "repo": "Docker-Secure-Deployment-Guidelines",
                 "stars": 608,
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:25:12.050Z",
+    "last_updated": "2026-10-15T05:14:20.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
