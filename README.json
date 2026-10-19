@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23334,
+                    "stars": 23333,
                     "topics": [
                       "api",
                       "jwt",
@@ -125,7 +125,7 @@
                     "open_issues": 85,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1361,
+                    "stars": 1362,
                     "topics": [
                       "checklist",
                       "rails",
@@ -480,7 +480,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-08T13:54:43Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
                 "stars": 502,
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T05:09:27.138Z",
+    "last_updated": "2026-10-19T05:20:58.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
