@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23335,
+                    "stars": 23337,
                     "topics": [
                       "api",
                       "jwt",
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21101,
+                    "stars": 21102,
                     "topics": [
                       "api",
                       "books",
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4130,
+                "stars": 4129,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:02:29.913Z",
+    "last_updated": "2026-10-25T05:19:46.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
