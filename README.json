@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23338,
+                    "stars": 23341,
                     "topics": [
                       "api",
                       "jwt",
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2599,
+                "stars": 2600,
                 "topics": [
                   "bizdev",
                   "california",
@@ -483,7 +483,7 @@
                 "open_issues": 2,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 503,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4129,
+                "stars": 4130,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -560,7 +560,7 @@
                 "open_issues": 38,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2801,
+                "stars": 2803,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:28:25.242Z",
+    "last_updated": "2026-10-31T06:18:07.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
