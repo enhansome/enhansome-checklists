@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21100,
+                    "stars": 21101,
                     "topics": [
                       "api",
                       "books",
@@ -225,7 +225,7 @@
                     "open_issues": 2,
                     "owner": "virajkulkarni14",
                     "repo": "WebDeveloperSecurityChecklist",
-                    "stars": 424,
+                    "stars": 423,
                     "topics": [
                       "checklist",
                       "information-security",
@@ -250,7 +250,7 @@
                     "open_issues": 2,
                     "owner": "drublic",
                     "repo": "checklist",
-                    "stars": 282,
+                    "stars": 283,
                     "topics": [
                       "checklist",
                       "frontend",
@@ -417,7 +417,7 @@
                 "open_issues": 3,
                 "owner": "leonar15",
                 "repo": "startup-checklist",
-                "stars": 2600,
+                "stars": 2602,
                 "topics": [
                   "bizdev",
                   "california",
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4130,
+                "stars": 4131,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -557,10 +557,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-02-24T11:03:29Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2803,
+                "stars": 2807,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -687,7 +687,7 @@
                 "open_issues": 3,
                 "owner": "jesusprubio",
                 "repo": "strong-node",
-                "stars": 507,
+                "stars": 506,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:51:58.413Z",
+    "last_updated": "2026-11-02T06:51:36.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",

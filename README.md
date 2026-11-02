@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 528,140 | 🐛 105 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,691 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,007 | 🐛 105 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,692 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -36,7 +36,7 @@ Checklists related to software development in all its forms.
 #### Security
 
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,342 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
-* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,100 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
+* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,101 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
 * [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,362 | 🐛 86 | 🌐 Ruby | 📅 2022-07-17 - Community-driven Rails Security Checklist. Contribute and share your experience
 * [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 106 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
 
@@ -46,8 +46,8 @@ Checklists related to software development in all its forms.
 
 * [Going to production - Single Page App](https://github.com/mr-mig/going-to-production/blob/master/spa-checklist.md) ⭐ 1,456 | 🐛 1 | 📅 2017-12-10 - A checklist for browser-based Web App without the backend
 * [Going to production - Server side](https://github.com/mr-mig/going-to-production/blob/master/serverside-checklist.md) ⭐ 1,456 | 🐛 1 | 📅 2017-12-10 - This is a checklist for serverside of the Web App.
-* [Web Developer Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) ⭐ 424 | 🐛 2 | 📅 2021-05-10 - A checklist of important security issues you should consider when creating a web application.
-* [Frontend Checklist](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04 - A frontend checklist for websites
+* [Web Developer Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) ⭐ 423 | 🐛 2 | 📅 2021-05-10 - A checklist of important security issues you should consider when creating a web application.
+* [Frontend Checklist](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04 - A frontend checklist for websites
 * [Building a java web apps checklist](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 229 | 🐛 0 | 📅 2017-10-20 - A checklist for building Java + Angular/React web applications in the correct way
 * [Project checklist](https://github.com/Imaginarydesign/webdev-checklist) ⭐ 140 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-11 - Web designer's checklist app
 * [Symfony2 deployment checklist](https://github.com/winzou/symfony2-checklist) ⭐ 136 | 🐛 7 | 🌐 GCC Machine Description | 📅 2017-04-04 - A checklist to track the steps needed to deploy a symphony 2 project
@@ -65,7 +65,7 @@ Checklists related to software development in all its forms.
 
 Checklists related to startups and side projects.
 
-* [Startup checklist](https://github.com/leonar15/startup-checklist) ⭐ 2,600 | 🐛 3 | 📅 2025-10-23 - A checklist for incorporation so you can get back to building your product, fundraising, etc.
+* [Startup checklist](https://github.com/leonar15/startup-checklist) ⭐ 2,602 | 🐛 3 | 📅 2025-10-23 - A checklist for incorporation so you can get back to building your product, fundraising, etc.
 * [SaaS Startup Checklist](https://github.com/slashdotdash/saas-startup-checklist) ⭐ 131 | 🐛 1 | 📅 2021-10-04 - A checklist for SaaS startups
 * [Side project Marketing](https://www.sideprojectchecklist.com/) - A checklist of tactics for marketing your side projects
 * [SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) - This is a basic checklist that all SaaS CTOs (and anyone else) can use to harden their security.
@@ -92,8 +92,8 @@ These are additional resources that are in a format similar to a checklist (step
 
 ### Software development
 
-* [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,130 | 🐛 1 | 📅 2023-07-04 - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
-* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,803 | 🐛 38 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
+* [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,131 | 🐛 1 | 📅 2023-07-04 - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
+* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,807 | 🐛 39 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 * [Contributing Template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) ⭐ 738 | 🐛 3 | 📅 2022-05-24 - A template for writing your own contributing guide.
 * [README checklist](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 667 | 🐛 3 | 📅 2025-12-12 - A checklist for writing READMEs
 * [Config](https://github.com/mdo/config) ⭐ 629 | 🐛 1 | 🌐 Shell | 📅 2021-07-18 - Mdo's checklist for setting up a new Mac's dev environment.
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
