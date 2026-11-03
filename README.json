@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23342,
+                    "stars": 23341,
                     "topics": [
                       "api",
                       "jwt",
@@ -122,7 +122,7 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 86,
+                    "open_issues": 88,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
                     "stars": 1362,
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4131,
+                "stars": 4130,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -557,10 +557,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-02-24T11:03:29Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2807,
+                "stars": 2809,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T06:51:36.636Z",
+    "last_updated": "2026-11-03T07:15:29.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
