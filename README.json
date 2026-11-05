@@ -480,7 +480,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-08T13:54:43Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
                 "stars": 505,
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:59:04.569Z",
+    "last_updated": "2026-11-05T07:24:48.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",

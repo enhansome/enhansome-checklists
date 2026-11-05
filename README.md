@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,497 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,692 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,237 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,692 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -85,7 +85,7 @@ These are additional resources that are in a format similar to a checklist (step
 
 ### Event planning
 
-* [Congress checklist](https://github.com/MacLemon/CongressChecklist) ⭐ 505 | 🐛 3 | 📅 2026-01-08 - A list of things to do, to pack and tips on attending a congress
+* [Congress checklist](https://github.com/MacLemon/CongressChecklist) ⭐ 505 | 🐛 2 | 📅 2026-01-08 - A list of things to do, to pack and tips on attending a congress
 * [Less Obvious Checklist](https://github.com/erikr/lessobviouschecklist) ⭐ 383 | 🐛 6 | 📅 2024-08-09 - A checklist for conference organisers of less obvious things
 
 **[:arrow\_up: back to top](#table-of-contents)**
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
