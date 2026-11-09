@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,378 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,693 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,027 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,693 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -93,7 +93,7 @@ These are additional resources that are in a format similar to a checklist (step
 ### Software development
 
 * [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,131 | 🐛 1 | 📅 2023-07-04 - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
-* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,808 | 🐛 41 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
+* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,809 | 🐛 41 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 * [Contributing Template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) ⭐ 738 | 🐛 3 | 📅 2022-05-24 - A template for writing your own contributing guide.
 * [README checklist](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 667 | 🐛 3 | 📅 2025-12-12 - A checklist for writing READMEs
 * [Config](https://github.com/mdo/config) ⭐ 629 | 🐛 1 | 🌐 Shell | 📅 2021-07-18 - Mdo's checklist for setting up a new Mac's dev environment.
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
