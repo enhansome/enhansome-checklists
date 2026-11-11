@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23347,
+                    "stars": 23348,
                     "topics": [
                       "api",
                       "jwt",
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21103,
+                    "stars": 21104,
                     "topics": [
                       "api",
                       "books",
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4132,
+                "stars": 4133,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -560,7 +560,7 @@
                 "open_issues": 41,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2809,
+                "stars": 2810,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -826,8 +826,8 @@
                 "id": 28694211,
                 "language": "SCSS",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-06T05:33:28Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-11T05:10:40Z",
+                "open_issues": 2,
                 "owner": "RafaelFunchal",
                 "repo": "wordpress-security-checklist",
                 "stars": 126,
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:45:08.802Z",
+    "last_updated": "2026-11-11T07:10:03.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
