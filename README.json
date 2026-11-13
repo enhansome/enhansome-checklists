@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23351,
+                    "stars": 23353,
                     "topics": [
                       "api",
                       "jwt",
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21105,
+                    "stars": 21104,
                     "topics": [
                       "api",
                       "books",
@@ -122,10 +122,10 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 91,
+                    "open_issues": 92,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1363,
+                    "stars": 1362,
                     "topics": [
                       "checklist",
                       "rails",
@@ -183,7 +183,7 @@
                     "open_issues": 1,
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1456,
+                    "stars": 1457,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -204,7 +204,7 @@
                     "open_issues": 1,
                     "owner": "mtdvio",
                     "repo": "going-to-production",
-                    "stars": 1456,
+                    "stars": 1457,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:14:38.792Z"
@@ -483,7 +483,7 @@
                 "open_issues": 2,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 508,
+                "stars": 509,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -560,7 +560,7 @@
                 "open_issues": 40,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -821,17 +821,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A simple checklist to improve the security of your WordPress installation",
+                "description": "A simple checklist to improve the security of your WordPress installation.",
                 "homepage": "https://wpsecuritychecklist.org/",
                 "id": 28694211,
                 "language": "SCSS",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-11T05:10:40Z",
-                "open_issues": 2,
-                "owner": "RafaelFunchal",
-                "repo": "wordpress-security-checklist",
+                "last_commit": "2026-11-13T04:12:18Z",
+                "open_issues": 0,
+                "owner": "WP-Security-Checklist",
+                "repo": "website",
                 "stars": 126,
-                "topics": []
+                "topics": [
+                  "checklist",
+                  "security",
+                  "wordpress-security"
+                ]
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
             },
@@ -918,7 +922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:44:16.976Z",
+    "last_updated": "2026-11-13T07:19:15.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
