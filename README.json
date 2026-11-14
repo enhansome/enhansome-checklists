@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23353,
+                    "stars": 23356,
                     "topics": [
                       "api",
                       "jwt",
@@ -125,7 +125,7 @@
                     "open_issues": 92,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1362,
+                    "stars": 1363,
                     "topics": [
                       "checklist",
                       "rails",
@@ -225,7 +225,7 @@
                     "open_issues": 2,
                     "owner": "virajkulkarni14",
                     "repo": "WebDeveloperSecurityChecklist",
-                    "stars": 423,
+                    "stars": 424,
                     "topics": [
                       "checklist",
                       "information-security",
@@ -250,7 +250,7 @@
                     "open_issues": 2,
                     "owner": "drublic",
                     "repo": "checklist",
-                    "stars": 283,
+                    "stars": 284,
                     "topics": [
                       "checklist",
                       "frontend",
@@ -276,7 +276,7 @@
                     "open_issues": 0,
                     "owner": "shekhargulati",
                     "repo": "building-java-web-apps-checklist",
-                    "stars": 229,
+                    "stars": 230,
                     "topics": [
                       "checklist",
                       "java"
@@ -592,7 +592,7 @@
                 "open_issues": 3,
                 "owner": "nayafia",
                 "repo": "contributing-template",
-                "stars": 738,
+                "stars": 739,
                 "topics": [
                   "checklist",
                   "community",
@@ -641,7 +641,7 @@
                 "open_issues": 1,
                 "owner": "mdo",
                 "repo": "config",
-                "stars": 629,
+                "stars": 630,
                 "topics": [
                   "checklist",
                   "config",
@@ -666,7 +666,7 @@
                 "open_issues": 3,
                 "owner": "strozfriedberg",
                 "repo": "Docker-Secure-Deployment-Guidelines",
-                "stars": 604,
+                "stars": 603,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -781,7 +781,7 @@
                 "open_issues": 0,
                 "owner": "harrisrobin",
                 "repo": "react-native-checklist",
-                "stars": 130,
+                "stars": 131,
                 "topics": [
                   "checklist",
                   "react-native",
@@ -806,7 +806,7 @@
                 "open_issues": 2,
                 "owner": "datamade",
                 "repo": "site-launch-checklist",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "checklist",
                   "guide"
@@ -830,7 +830,7 @@
                 "open_issues": 0,
                 "owner": "WP-Security-Checklist",
                 "repo": "website",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "checklist",
                   "security",
@@ -922,7 +922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T07:19:15.852Z",
+    "last_updated": "2026-11-14T07:02:05.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
@@ -934,7 +934,7 @@
       "open_issues": 1,
       "owner": "israelroldan",
       "repo": "awesome-checklists",
-      "stars": 150,
+      "stars": 151,
       "topics": [
         "awesome",
         "awesome-list",
