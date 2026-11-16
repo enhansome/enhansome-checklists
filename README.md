@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,083 | 🐛 104 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,695 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,616 | 🐛 104 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,695 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -35,7 +35,7 @@ Checklists related to software development in all its forms.
 
 #### Security
 
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,357 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,359 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
 * [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,104 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
 * [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,363 | 🐛 93 | 🌐 Ruby | 📅 2022-07-17 - Community-driven Rails Security Checklist. Contribute and share your experience
 * [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 106 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
@@ -65,7 +65,7 @@ Checklists related to software development in all its forms.
 
 Checklists related to startups and side projects.
 
-* [Startup checklist](https://github.com/leonar15/startup-checklist) ⭐ 2,605 | 🐛 3 | 📅 2025-10-23 - A checklist for incorporation so you can get back to building your product, fundraising, etc.
+* [Startup checklist](https://github.com/leonar15/startup-checklist) ⭐ 2,606 | 🐛 3 | 📅 2025-10-23 - A checklist for incorporation so you can get back to building your product, fundraising, etc.
 * [SaaS Startup Checklist](https://github.com/slashdotdash/saas-startup-checklist) ⭐ 131 | 🐛 1 | 📅 2021-10-04 - A checklist for SaaS startups
 * [Side project Marketing](https://www.sideprojectchecklist.com/) - A checklist of tactics for marketing your side projects
 * [SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) - This is a basic checklist that all SaaS CTOs (and anyone else) can use to harden their security.
@@ -117,7 +117,7 @@ These are additional resources that are in a format similar to a checklist (step
 
 ### Startups / side-projects
 
-* [Marketing Checklist for indie game developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers/blob/master/Indie%20Game%20Developer%20Marketing%20Checklist.md) ⭐ 85 | 🐛 1 | 📅 2013-05-08 - A checklist to help indie game developers promote their games
+* [Marketing Checklist for indie game developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers/blob/master/Indie%20Game%20Developer%20Marketing%20Checklist.md) ⭐ 86 | 🐛 1 | 📅 2013-05-08 - A checklist to help indie game developers promote their games
 
 **[:arrow\_up: back to top](#table-of-contents)**
 
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
