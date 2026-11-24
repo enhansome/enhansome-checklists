@@ -72,7 +72,7 @@
                     "open_issues": 2,
                     "owner": "shieldfy",
                     "repo": "API-Security-Checklist",
-                    "stars": 23369,
+                    "stars": 23370,
                     "topics": [
                       "api",
                       "jwt",
@@ -98,7 +98,7 @@
                     "open_issues": 18,
                     "owner": "FallibleInc",
                     "repo": "security-guide-for-developers",
-                    "stars": 21106,
+                    "stars": 21107,
                     "topics": [
                       "api",
                       "books",
@@ -483,7 +483,7 @@
                 "open_issues": 4,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 513,
+                "stars": 514,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:38.792Z"
@@ -560,7 +560,7 @@
                 "open_issues": 40,
                 "owner": "marcobiedermann",
                 "repo": "search-engine-optimization",
-                "stars": 2812,
+                "stars": 2813,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -663,7 +663,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-11-01T11:03:00Z",
-                "open_issues": 3,
+                "open_issues": 1,
                 "owner": "strozfriedberg",
                 "repo": "Docker-Secure-Deployment-Guidelines",
                 "stars": 603,
@@ -922,7 +922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T08:16:00.465Z",
+    "last_updated": "2026-11-24T10:26:30.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of checklists. Inspired by the awesome list thing.",
