@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,515 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,697 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,022 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,698 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -35,8 +35,8 @@ Checklists related to software development in all its forms.
 
 #### Security
 
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,372 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
-* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,107 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,373 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
+* [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,106 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
 * [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,361 | 🐛 92 | 🌐 Ruby | 📅 2022-07-17 - Community-driven Rails Security Checklist. Contribute and share your experience
 * [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 106 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
 
@@ -85,7 +85,7 @@ These are additional resources that are in a format similar to a checklist (step
 
 ### Event planning
 
-* [Congress checklist](https://github.com/MacLemon/CongressChecklist) ⭐ 514 | 🐛 4 | 📅 2026-01-08 - A list of things to do, to pack and tips on attending a congress
+* [Congress checklist](https://github.com/MacLemon/CongressChecklist) ⭐ 515 | 🐛 4 | 📅 2026-01-08 - A list of things to do, to pack and tips on attending a congress
 * [Less Obvious Checklist](https://github.com/erikr/lessobviouschecklist) ⭐ 383 | 🐛 6 | 📅 2024-08-09 - A checklist for conference organisers of less obvious things
 
 **[:arrow\_up: back to top](#table-of-contents)**
@@ -93,7 +93,7 @@ These are additional resources that are in a format similar to a checklist (step
 ### Software development
 
 * [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,128 | 🐛 1 | 📅 2023-07-04 - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
-* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,813 | 🐛 40 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
+* [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,814 | 🐛 40 | 📅 2025-02-24 - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 * [Contributing Template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) ⭐ 738 | 🐛 3 | 📅 2022-05-24 - A template for writing your own contributing guide.
 * [README checklist](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 667 | 🐛 3 | 📅 2025-12-12 - A checklist for writing READMEs
 * [Config](https://github.com/mdo/config) ⭐ 630 | 🐛 1 | 🌐 Shell | 📅 2021-07-18 - Mdo's checklist for setting up a new Mac's dev environment.
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
