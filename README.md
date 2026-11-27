@@ -3,7 +3,7 @@
 > A curated list of checklists
 
 Most of the links in this repository point directly to checklists in markdown format.\
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,022 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,698 | 🐛 4 | 📅 2026-07-21 this list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,639 | 🐛 103 | 📅 2026-09-02 list thing. Feel free to [improve](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md) ⭐ 3,698 | 🐛 4 | 📅 2026-07-21 this list.
 
 ## Table of contents
 
@@ -35,7 +35,7 @@ Checklists related to software development in all its forms.
 
 #### Security
 
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,373 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,374 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures when designing, testing, and releasing your AP
 * [Security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) ⭐ 21,106 | 🐛 18 | 📅 2025-08-30 - A practical security guide for web developers
 * [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,361 | 🐛 92 | 🌐 Ruby | 📅 2022-07-17 - Community-driven Rails Security Checklist. Contribute and share your experience
 * [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 106 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
@@ -44,11 +44,11 @@ Checklists related to software development in all its forms.
 
 #### Web development
 
-* [Going to production - Single Page App](https://github.com/mr-mig/going-to-production/blob/master/spa-checklist.md) ⭐ 1,457 | 🐛 1 | 📅 2017-12-10 - A checklist for browser-based Web App without the backend
-* [Going to production - Server side](https://github.com/mr-mig/going-to-production/blob/master/serverside-checklist.md) ⭐ 1,457 | 🐛 1 | 📅 2017-12-10 - This is a checklist for serverside of the Web App.
+* [Going to production - Single Page App](https://github.com/mr-mig/going-to-production/blob/master/spa-checklist.md) ⭐ 1,456 | 🐛 1 | 📅 2017-12-10 - A checklist for browser-based Web App without the backend
+* [Going to production - Server side](https://github.com/mr-mig/going-to-production/blob/master/serverside-checklist.md) ⭐ 1,456 | 🐛 1 | 📅 2017-12-10 - This is a checklist for serverside of the Web App.
 * [Web Developer Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) ⭐ 422 | 🐛 2 | 📅 2021-05-10 - A checklist of important security issues you should consider when creating a web application.
-* [Frontend Checklist](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04 - A frontend checklist for websites
-* [Building a java web apps checklist](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 228 | 🐛 0 | 📅 2017-10-20 - A checklist for building Java + Angular/React web applications in the correct way
+* [Frontend Checklist](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04 - A frontend checklist for websites
+* [Building a java web apps checklist](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 227 | 🐛 0 | 📅 2017-10-20 - A checklist for building Java + Angular/React web applications in the correct way
 * [Project checklist](https://github.com/Imaginarydesign/webdev-checklist) ⭐ 140 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-11 - Web designer's checklist app
 * [Symfony2 deployment checklist](https://github.com/winzou/symfony2-checklist) ⭐ 136 | 🐛 7 | 🌐 GCC Machine Description | 📅 2017-04-04 - A checklist to track the steps needed to deploy a symphony 2 project
 * [Awesome Security Checklist](https://github.com/mostafahussein/awesome-security-checklist) ⭐ 106 | 🐛 0 | 📅 2016-03-30 - If you're launching a new application and have security in mind, this is a good starting point
@@ -85,7 +85,7 @@ These are additional resources that are in a format similar to a checklist (step
 
 ### Event planning
 
-* [Congress checklist](https://github.com/MacLemon/CongressChecklist) ⭐ 515 | 🐛 4 | 📅 2026-01-08 - A list of things to do, to pack and tips on attending a congress
+* [Congress checklist](https://github.com/MacLemon/CongressChecklist) ⭐ 515 | 🐛 5 | 📅 2026-01-08 - A list of things to do, to pack and tips on attending a congress
 * [Less Obvious Checklist](https://github.com/erikr/lessobviouschecklist) ⭐ 383 | 🐛 6 | 📅 2024-08-09 - A checklist for conference organisers of less obvious things
 
 **[:arrow\_up: back to top](#table-of-contents)**
@@ -158,4 +158,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
